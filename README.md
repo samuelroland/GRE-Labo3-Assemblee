@@ -1,5 +1,9 @@
 # GRE-Labo3-Assemblee
 
+## Introduction
+
+On cherche à modéliser le problème de la recherche de l'assemblée des délégués de l’association cantonale vaudoise de gymnastique par un problème de la théorie des graphes.
+
 ## Modélisation du problème
 
 On peut modéliser ce problème par un problème de transbordement. 
