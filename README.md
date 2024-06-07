@@ -21,6 +21,8 @@ Pour cela on utilise le graphe suivant :
 
 - Des arcs $(C_i,S_k)$ lorsque le candidat $i$ fait partie de la société $k$, sans capacité (ou une capacité de 1).
 
+![](diagram.png)
+
 ## Type de problème
 Il s'agit d'un problème de transbordement. Si, lors de la résolution de ce problème, les demandes sont respectées (c'est-à-dire un délégué par société), alors il existe une solution au problème (c'est-à-dire une sélection admissible de délégués), et les candidats seléctionnés sont ceux où transite un flux (de 1).
 
