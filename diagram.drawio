@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-06-07T12:26:53.472Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="M3FW1bLMv80sgAvuTyPr" version="24.2.5" type="device">
+<mxfile host="Electron" modified="2024-06-07T13:20:49.143Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="mc5Hn5ohKRMZdCk1ZPnE" version="24.2.5" type="device">
   <diagram name="Page-1" id="L-C9a64Ln4dAdznqtOv8">
-    <mxGraphModel dx="1687" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -360,6 +360,9 @@
         </mxCell>
         <mxCell id="eM-ZfgMRJev5hYLbkpdu-16" value="Candidats" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="480" y="210" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2zSMVQ2vW_HQd2-LEBrB-137" value="&lt;span style=&quot;background-color: initial; font-size: 22px;&quot;&gt;Figure: Graphe de la modélisation&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="300" y="770" width="350" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
